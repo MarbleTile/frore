@@ -28,3 +28,6 @@
     * however, i suspect part of the point is that the kernel takes care of
         so much for me
 
+# the setup
+![](setup.jpg)
+
